@@ -6,6 +6,7 @@ const Binary_Search = require("./Algorithms/BinarySearch")
 const Linear_Search = require("./Algorithms/Linear_Search")
 const GetMax = require("./Algorithms/GetMax")
 const GetMin = require("./Algorithms/GetMin")
+const Graph = require("./Algorithms/Make_Graph")
 
 
 module.exports = {
@@ -16,7 +17,9 @@ module.exports = {
     Binary_Search,
     Linear_Search,
     GetMax,
-    GetMin
+    GetMin,
+    Graph,
+    
 
     
 
